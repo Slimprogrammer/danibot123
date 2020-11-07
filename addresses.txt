@@ -1,0 +1,3 @@
+https://api.telegram.org/bot988489265:AAHOZbQBg-LpKo2Vtbaux1S7lHimLxt5mlg/getWebhookinfo
+
+https://api.telegram.org/bot988489265:AAHOZbQBg-LpKo2Vtbaux1S7lHimLxt5mlg/setWebhook?url=https://danibot.mentoch.com/index.php
